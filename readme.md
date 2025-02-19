@@ -5,15 +5,20 @@
 
 </div>
 
+
 ### Freenet
 
-  📝: Freenet Audio Docs
+  📝: Freenet Intro
 
-[Freenet Intro](https://github.com/kontains/media/blob/main/src/assets/audio/Freenet-intro.mp3)
+[![YouTube](http://i.ytimg.com/vi/XfFb5D348mo/hqdefault.jpg)](https://www.youtube.com/watch?v=XfFb5D348mo)
+
+
+[ MP3 📻 ](https://github.com/kontains/media/blob/main/src/assets/audio/Freenet-intro.mp3)
 
 ### Freenet Hubs
 
  📝: pending
+
 
 ### Other Hubs
 
